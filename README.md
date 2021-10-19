@@ -4,7 +4,7 @@
 
 # before installation:
 
- * for first, start from install JDKjdk-8u271 for your environment.
+ * for first, start with install the JDKjdk-8u271 for your environment(list of compatible versions present the url below).
 
  * official site oracle jdk: => https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
 
