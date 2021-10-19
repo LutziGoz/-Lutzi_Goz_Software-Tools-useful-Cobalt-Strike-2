@@ -1,7 +1,8 @@
-# -Lutzi_Goz_Softwares-Tools_Rare-useful-
+# !~@~LutziTools_Rare-useful~@~!
+
 ![armadillo](https://user-images.githubusercontent.com/45577616/137899277-b470f31f-b885-4e02-8348-c92808e521bd.jpg)
 
-this page create to Researchers, PTs and Red Team Crawlers (caterpillar, sliders & Domain Administrators) it will open your eyes ;)
+this page was create for Researchers, PTs and Red Team Crawlers (caterpillar, sliders & Domain Administrators) it will open your eyes ;)
 
 for first install JDKjdk-8u271 for your environment.
 
