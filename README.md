@@ -1,4 +1,4 @@
-# LutziCobalt
+# !~@~LutziCobalt~@~!
 
 ![armadillo](https://user-images.githubusercontent.com/45577616/137899277-b470f31f-b885-4e02-8348-c92808e521bd.jpg)
 
@@ -10,7 +10,7 @@ official site oracle jdk: => https://www.oracle.com/java/technologies/javase/jav
 
 the pass_ext = MalwareAnalysis_4d5a
 
-Notes and recommendations:
+## Notes and recommendations:
 1. The Teamserver compatible to AWS as well.
 2. To deploty the software on AWS, this compatible just for Ubuntu 12.02 and 14.04(checked on AWS cloudfront service)!!!
 3. the next url very useful, it will present all of the domain fronthing techniques, include privilage escalations and hooking directly via DNS,,ettp,https via payload, shell connadsm web delivery etc. 
