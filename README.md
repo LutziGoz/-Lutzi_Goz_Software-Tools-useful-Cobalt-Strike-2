@@ -1,4 +1,4 @@
-# LutziKobalt
+# LutziCobalt
 
 ![armadillo](https://user-images.githubusercontent.com/45577616/137899277-b470f31f-b885-4e02-8348-c92808e521bd.jpg)
 
@@ -8,7 +8,7 @@ for first install JDKjdk-8u271 for your environment.
 
 official site oracle jdk: => https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
 
-# pass_ext = MalwareAnalysis_4d5a
+the pass_ext = MalwareAnalysis_4d5a
 
 ## Notes:
 ### 1. The Teamserver compatible to AWS as well.
