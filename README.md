@@ -8,7 +8,9 @@
 
  * official site oracle jdk: => https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
 
- * the pass_ext = MalwareAnalysis_4d5a
+ * password to extract cobaltstrike after downloading = MalwareAnalysis_4d5a
+ 
+* start with official pdf [cobalt strike .pdf](https://github.com/LutziGoz/-Lutzi_Goz_Softwares-Tools_Rare-useful-/files/7373219/cobalt.strike.pdf)
 
 ### Notes and recommendations:
 * The Teamserver compatible to AWS as well.
