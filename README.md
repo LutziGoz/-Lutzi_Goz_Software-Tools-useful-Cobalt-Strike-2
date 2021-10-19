@@ -2,10 +2,9 @@
 
 ![Untitled](https://user-images.githubusercontent.com/45577616/137908075-804e8916-f796-4c84-be2a-b7ca8acdb86c.png)
 
+# before installation:
 
-## this page was create for Researchers, PTs and Red Team Crawlers (caterpillar, sliders & Domain Administrators) it will open your eyes ;)
-
- * for first install JDKjdk-8u271 for your environment.
+ * for first, start from install JDKjdk-8u271 for your environment.
 
  * official site oracle jdk: => https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
 
