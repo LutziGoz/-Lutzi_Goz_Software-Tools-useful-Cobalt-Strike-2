@@ -8,6 +8,8 @@ for first install JDKjdk-8u271 for your environment.
 
 official site oracle jdk: => https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
 
+# pass_ext = MalwareAnalysis_4d5a
+
 ## Notes:
 ### 1. The Teamserver compatible to AWS as well.
 ### 2. To deploty the software on AWS, this compatible just for Ubuntu 12.02 and 14.04(checked on AWS cloudfront service)!!!
