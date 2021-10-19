@@ -1,6 +1,6 @@
 # !~@~LutziCobalt~@~!
+![Untitled](https://user-images.githubusercontent.com/45577616/137906370-64de3088-6cbb-4340-bfb5-92a509f7020a.jpg)
 
-![Untitled](https://user-images.githubusercontent.com/45577616/137905814-cfb393b2-0df7-4c8a-865a-6567f33bf899.jpg)
 
 ## this page was create for Researchers, PTs and Red Team Crawlers (caterpillar, sliders & Domain Administrators) it will open your eyes ;)
 
@@ -17,5 +17,3 @@
 * for discover and research after injection, need to use with volatility tool acctually to find and create incident response :)
 Domain Fronthing guide: => https://www.bamsoftware.com/papers/fronting/
 * i wish you get lots of permissions.
-
-![pp](https://user-images.githubusercontent.com/45577616/137901927-37fd8c58-1eac-4ac4-a85e-1bf4a1b1a6e3.jpg)
