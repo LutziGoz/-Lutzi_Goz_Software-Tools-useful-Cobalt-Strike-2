@@ -4,11 +4,11 @@
 
 ## this page was create for Researchers, PTs and Red Team Crawlers (caterpillar, sliders & Domain Administrators) it will open your eyes ;)
 
-## for first install JDKjdk-8u271 for your environment.
+ * for first install JDKjdk-8u271 for your environment.
 
-## official site oracle jdk: => https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
+ * official site oracle jdk: => https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
 
-## the pass_ext = MalwareAnalysis_4d5a
+ * the pass_ext = MalwareAnalysis_4d5a
 
 ### Notes and recommendations:
 1. The Teamserver compatible to AWS as well.
