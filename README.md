@@ -1,6 +1,6 @@
 # !~@~LutziCobalt~@~!
 
-![armadillo](https://user-images.githubusercontent.com/45577616/137899277-b470f31f-b885-4e02-8348-c92808e521bd.jpg)
+![Untitled](https://user-images.githubusercontent.com/45577616/137905814-cfb393b2-0df7-4c8a-865a-6567f33bf899.jpg)
 
 this page was create for Researchers, PTs and Red Team Crawlers (caterpillar, sliders & Domain Administrators) it will open your eyes ;)
 
