@@ -15,7 +15,9 @@
 ### Notes and recommendations:
 * The Teamserver compatible to AWS as well.
 * To deploy the software on AWS, this compatible just for Ubuntu 12.02 and 14.04(checked on AWS cloudfront service, PoC image below)!!!
-![aws](https://user-images.githubusercontent.com/45577616/139776751-18f916b7-bb70-43cb-ab43-7be5874cf13f.png)
+![ice_screenshot_20211102-045119](https://user-images.githubusercontent.com/45577616/139780140-621cb6f3-7609-4a2f-914b-c79b064ba8f7.png)
+![ice_screenshot_20211102-045809](https://user-images.githubusercontent.com/45577616/139780149-ad87dba3-4ddf-4605-8105-1a52dfffe7c2.png)
+
 * the next url very useful, it will present all of the domain fronting techniques, include content delivery networks, privilage escalations, hooking and more ways execute the injection directly through The DNS, http, https what should loaded direct a payload, powershell commands etc. 
 * for discover and research after injection, you must to use with volatility tool acctually to find and create incident response :)
 Domain Fronting guide: => https://www.bamsoftware.com/papers/fronting/
