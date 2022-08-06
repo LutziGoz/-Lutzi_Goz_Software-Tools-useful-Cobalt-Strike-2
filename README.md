@@ -20,6 +20,6 @@
 
 * the next url very useful, it will present all of the domain fronting techniques, include content delivery networks, privilage escalations, hooking and more ways execute the injection directly through The DNS, http, https.
 loaded redirect a payload, powershell commands etc. 
-* for discover and research after injection, you must to use with volatility tool acctually to find and create incident response :)
+* to discover and research after injection(post exploitation), you must to use with volatility tool acctually to find and create incident response :)
 Domain Fronting guide: => https://www.bamsoftware.com/papers/fronting/
 * i wish you get lots of permissions.
