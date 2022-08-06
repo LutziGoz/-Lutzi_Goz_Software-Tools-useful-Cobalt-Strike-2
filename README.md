@@ -18,7 +18,8 @@
 ![ice_screenshot_20211102-045119](https://user-images.githubusercontent.com/45577616/139780233-445352ae-1ebf-4864-8e1a-57020d14f4f7.png)
 ![ice_screenshot_20211102-045809](https://user-images.githubusercontent.com/45577616/139780239-3954ecaa-9a44-4238-b9ea-2906e8fa8136.png)
 
-* the next url very useful, it will present all of the domain fronting techniques, include content delivery networks, privilage escalations, hooking and more ways execute the injection directly through The DNS, http, https what should loaded direct a payload, powershell commands etc. 
+* the next url very useful, it will present all of the domain fronting techniques, include content delivery networks, privilage escalations, hooking and more ways execute the injection directly through The DNS, http, https.
+loaded redirect a payload, powershell commands etc. 
 * for discover and research after injection, you must to use with volatility tool acctually to find and create incident response :)
 Domain Fronting guide: => https://www.bamsoftware.com/papers/fronting/
 * i wish you get lots of permissions.
